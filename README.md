@@ -6,7 +6,7 @@ Este é um projeto de gestão de usuários, composto por um front-end desenvolvi
 
 - **Front-end**: React.js
 - **Back-end**: C# (ASP.NET Core)
-- **Banco de Dados**: (Se você estiver usando algum banco, adicione aqui. Caso contrário, pode omitir.)
+- **Banco de Dados**: MySql
 
 ## Funcionalidades
 
